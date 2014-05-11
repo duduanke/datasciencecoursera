@@ -1,2 +1,1 @@
-datasciencecoursera
-===================
+This is a repository created in the framework of the Data Science Coursera course.
